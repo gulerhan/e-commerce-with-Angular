@@ -1,0 +1,7 @@
+-Listen for db.json-
+e-commerce/src/app/server and 
+json-server --watch db.json
+
+
+-Start for App-
+npm start

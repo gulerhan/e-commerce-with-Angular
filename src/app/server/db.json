@@ -1,0 +1,120 @@
+{
+  "products": [
+    {
+      "id": 4,
+      "productName": "Yamaha R1",
+      "productImg": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1/2024-Yamaha-YZF1000R1-EU-Icon_Blue-360-Degrees-001-03_Mobile.jpg",
+      "productDesc": "It is a very fast motocycle",
+      "productFee": 500
+    },
+    {
+      "id": 5,
+      "productName": "Honda CBR 1000RR",
+      "productImg": "https://motosikletekipman.com/wp-content/uploads/2021/06/Honda-CBR-1000-RR-2017-Grenaj-seti.jpg",
+      "productDesc": "It is a ver fast motocycle",
+      "productFee": 550
+    },
+    {
+      "id": 6,
+      "productName": "Kawasaki Ninja H2R",
+      "productImg": "https://www.motosikletsitesi.com/wp-content/uploads/2017/09/2018-kawasaki-ninja-h2_827x510_41504619368.jpg",
+      "productDesc": "It is a very fast motorcycle",
+      "productFee": 1000
+    },
+    {
+      "id": 7,
+      "productName": "Suzuki GSX-R 1000",
+      "productImg": "https://i0.shbdn.com/photos/87/86/35/x5_1113878635z2l.jpg",
+      "productDesc": "It is a very fast motorcycle",
+      "productFee": 750
+    },
+    {
+      "id": 8,
+      "productName": "Suzuki Hayabusa",
+      "productImg": "https://tasiyanlar.com/wp-content/uploads/2021/02/Suzuki-GSX-R-1300-Hayabusa-4.jpg",
+      "productDesc": "It is a very fast car",
+      "productFee": 950
+    },
+    {
+      "id": 1,
+      "productName": "Ferrari",
+      "productImg": "https://media.istockphoto.com/id/1006541592/tr/foto%C4%9Fraf/genel-k%C4%B1rm%C4%B1z%C4%B1-spor-coupe-araba-beyaz-arka-plan-%C3%BCzerinde-3d-%C3%A7izimi.jpg?s=612x612&w=0&k=20&c=RzqRigS9ReisyxbS4yzCSf3OJmXKNsBTQpEHMQ27tdg=",
+      "productDesc": "It is a very fast car",
+      "productFee": 300
+    },
+    {
+      "id": 2,
+      "productName": "Lamborghini",
+      "productImg": "https://i.pinimg.com/originals/a9/76/af/a976af5c7bf3cc5b05a1b301334e0f68.jpg",
+      "productDesc": "It is a very fast car",
+      "productFee": 400
+    },
+    {
+      "id": 3,
+      "productName": "Bugatti",
+      "productImg": "https://www.arthipo.com/image/cache/catalog/poster/car/pcars196-bugatti-veyron-1200x680.webp",
+      "productDesc": "It is a very fast car",
+      "productFee": 800
+    }
+  ],
+  "baskets": [
+    {
+      "id": 4,
+      "productName": "Yamaha R1",
+      "productImg": "https://cdn2.yamaha-motor.eu/prod/product-assets/2024/YZF1000R1/2024-Yamaha-YZF1000R1-EU-Icon_Blue-360-Degrees-001-03_Mobile.jpg",
+      "productDesc": "It is a very fast motocycle",
+      "productFee": 500
+    },
+    {
+      "id": 5,
+      "productName": "Honda CBR 1000RR",
+      "productImg": "https://motosikletekipman.com/wp-content/uploads/2021/06/Honda-CBR-1000-RR-2017-Grenaj-seti.jpg",
+      "productDesc": "It is a ver fast motocycle",
+      "productFee": 550
+    },
+    {
+      "id": 6,
+      "productName": "Kawasaki Ninja H2R",
+      "productImg": "https://www.motosikletsitesi.com/wp-content/uploads/2017/09/2018-kawasaki-ninja-h2_827x510_41504619368.jpg",
+      "productDesc": "It is a very fast motorcycle",
+      "productFee": 1000
+    },
+    {
+      "id": 7,
+      "productName": "Suzuki GSX-R 1000",
+      "productImg": "https://i0.shbdn.com/photos/87/86/35/x5_1113878635z2l.jpg",
+      "productDesc": "It is a very fast motorcycle",
+      "productFee": 750
+    },
+    {
+      "id": 8,
+      "productName": "Suzuki Hayabusa",
+      "productImg": "https://tasiyanlar.com/wp-content/uploads/2021/02/Suzuki-GSX-R-1300-Hayabusa-4.jpg",
+      "productDesc": "It is a very fast car",
+      "productFee": 950
+    },
+    {
+      "id": 1,
+      "productName": "Ferrari",
+      "productImg": "https://media.istockphoto.com/id/1006541592/tr/foto%C4%9Fraf/genel-k%C4%B1rm%C4%B1z%C4%B1-spor-coupe-araba-beyaz-arka-plan-%C3%BCzerinde-3d-%C3%A7izimi.jpg?s=612x612&w=0&k=20&c=RzqRigS9ReisyxbS4yzCSf3OJmXKNsBTQpEHMQ27tdg=",
+      "productDesc": "It is a very fast car",
+      "productFee": 300
+    },
+    {
+      "id": 2,
+      "productName": "Lamborghini",
+      "productImg": "https://i.pinimg.com/originals/a9/76/af/a976af5c7bf3cc5b05a1b301334e0f68.jpg",
+      "productDesc": "It is a very fast car",
+      "productFee": 400
+    },
+    {
+      "id": 3,
+      "productName": "Bugatti",
+      "productImg": "https://www.arthipo.com/image/cache/catalog/poster/car/pcars196-bugatti-veyron-1200x680.webp",
+      "productDesc": "It is a very fast car",
+      "productFee": 800
+    }
+  ],
+  "descriptions": [],
+  "fees": []
+}
